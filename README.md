@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-Live-brightgreen)
 ![OpenWeather](https://img.shields.io/badge/API-OpenWeatherMap-orange)
 
-A sleek, modern, and responsive weather application built with React, integrating real-time weather data from the OpenWeatherMap API. Designed and developed by **Jammu Durga Prasad**.
+A sleek, modern, and responsive weather application built with React, integrating real-time weather data from the OpenWeatherMap API. Designed and developed by **Thandava Krishna**.
 
 ---
 
