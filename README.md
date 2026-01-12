@@ -1,4 +1,4 @@
-# 🌦️ DPS Weather App
+# 🌦️ Thandava's Weather App
 
 ![React](https://img.shields.io/badge/React-2025-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -6,12 +6,6 @@
 ![OpenWeather](https://img.shields.io/badge/API-OpenWeatherMap-orange)
 
 A sleek, modern, and responsive weather application built with React, integrating real-time weather data from the OpenWeatherMap API. Designed and developed by **Jammu Durga Prasad**.
-
----
-
-## 🌐 Live Demo
-
-🔗 **[Click here to try it live →](https://dpsweatherapp.netlify.app/)**
 
 ---
 
